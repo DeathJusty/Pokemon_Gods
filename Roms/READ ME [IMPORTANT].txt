@@ -1,4 +1,5 @@
 When Making Changes to a rom file, make sure to create backups
 keep the original rom so if you loose data we can patch it back up
 this is important that you do it so you dont loose time and effort
+open the gba file with visual boy advanced (VBA)
 - DeathJusty
